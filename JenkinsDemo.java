@@ -1,4 +1,4 @@
-public class HelloWorld
+public class JenkinsDemo
 {   
       public static void main(String[] args)
       {       
